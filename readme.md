@@ -1,0 +1,5 @@
+In order to make this site more accessable all around I wanted to enure that not only was it following a semantic HTML layout, but that it also was a little more adaptive to different screen sizes so it could be more easily viewed on a mobile device. 
+There was plenty of redundant CSS that could be removed once the divs all had semantic class labels attached to them. 
+I attempted to follow ARIA standards when adding alt tags to elements on the page, in order to make the page more accessible to people with disabilities. 
+To this effect, from my reading it felt like all of the images on this page should have a null alt, as they all seemed to be decorative. None of them were nessecary for understanding the content of the page if a person was using a screen reader.
+ However, if it is preferable to include alt text for the sake of this assignment I would be happy to add some. 
